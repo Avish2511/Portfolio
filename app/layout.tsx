@@ -53,4 +53,4 @@ export default function RootLayout({
     </html>
   );
 }
-move page to app folder
+
