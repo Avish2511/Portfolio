@@ -1,6 +1,12 @@
 import type { Metadata } from "next";
 import "./globals.css";
 
+export default function
+RootLayout({ children }){
+  return (
+    <html lang="en"><body>{children}</body></html>
+    );
+}
 export const metadata: Metadata = {
   title: "Avishkumar Patel | Full Stack Engineer (MERN) | Real-Time Systems Builder",
   description:
