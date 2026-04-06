@@ -31,4 +31,4 @@ export default function Home() {
     </>
   );
 }
-move page to app folder
+
